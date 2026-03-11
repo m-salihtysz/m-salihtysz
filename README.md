@@ -6,7 +6,11 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Backend, doğal dil işleme
 
 # teknik yetkinlikler: 💻
 ---
-**Diller:** C, C++, Java, Python, Dart, SQL  
-**Yazılım & Yapay Zeka:** Backend Geliştirme, Flutter (Mobil), Doğal Dil İşleme (NLP), LLM Entegrasyonu  
-**Donanım & Robotik:** Gömülü Sistemler, Robotik, Mikrodenetleyiciler (STM32, ESP32, Arduino)  
-**Araçlar & Veritabanları:** VS Code, Git, Docker, PostgreSQL, MongoDB, Linux
+
+- **Programlama Dilleri:** Python, C++, C#, Java, JavaScript, Kotlin, Bash, SQL  
+- **Backend & Web Geliştirme:** ASP.NET Core MVC, RESTful API’ler, Full-Stack Web Development, HTML5, CSS3  
+- **Robotik & Gömülü Sistemler:** ROS2, Arduino, Gömülü Sistemler, Sensör Entegrasyonu  
+- **Veritabanları & Veri Yönetimi:** PostgreSQL, SQL Server, MongoDB, Dataverse (temel tablo/ilişki)  
+- **Yapay Zeka & NLP:** AI API kullanımı ve entegrasyonu, NLP Modelleri (Doğal Dil İşleme), Metin tabanlı AI, Duygu Analizi  
+- **DevOps & Deployment:** Docker, CI/CD, Kubernetes (temel), Containerization & Versiyon Kontrolü  
+- **Araçlar & Frameworkler:** VS Code, Linux, FastAPI, Streamlit
