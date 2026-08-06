@@ -1,6 +1,6 @@
 # hakkımda: 🚀
 ---
-Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Backend, doğal dil işleme (NLP), gömülü sistemler ve robotik alanlarında teknik yetkinliğe sahip bir mühendis adayıyım. Yazılımın hem sunucu tarafındaki mimarisine hem de donanım üzerindeki kontrol süreçlerine odaklanan bir öğrenci olarak, bu disiplinlerin her birinde aktif olarak projeler geliştiriyorum. Teorik eğitimimi saha uygulamalarıyla destekleyerek, teknolojinin her iki katmanında da çözümler üretmeye odaklıyım.
+Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Backend, doğal dil işleme (NLP), gömülü sistemler ve robotik alanlarında teknik yetkinliğe sahip bir mühendis adayıyım. Yazılımın hem sunucu tarafındaki mimarisine hem de donanım üzerindeki kontrol süreçlerine odaklanan bir öğrenci olarak, bu disiplinlerin her birinde aktif olarak projeler geliştiriyorum. Teorik eğitimimi saha uygulamalarıyla destekleyerek, teknolojinin her iki katmanında da çözümler üretmeye odaklıyım.
 
 <br>
 
